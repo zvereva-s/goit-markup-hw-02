@@ -161,3 +161,8 @@ body {
   letter-spacing: 0.06em;
   color: var(--brand-color-third);
 }
+.portfolio-title:active,
+.portfolio-title:hover,
+.portfolio-title:focus {
+  color: var(--brand-color);
+}
