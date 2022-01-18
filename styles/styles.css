@@ -150,6 +150,7 @@ body {
 .filtr-link:focus {
   background-color: var(--brand-color);
   color: var(--brand-white);
+  cursor: pointer;
 }
 .portfolio-link {
   color: inherit;
